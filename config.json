@@ -1,7 +1,7 @@
 {
-  "userToken": "",
-  "sourceGuildId": "",
-  "targetGuildId": "",
+  "userToken": "UserToken",
+  "sourceGuildId": "Hedefİd",
+  "targetGuildId": "Kaynakİd",
   "resetTargetServer": true,
   "rateLimitDelay": 2000
 }
